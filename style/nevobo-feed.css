@@ -1,0 +1,29 @@
+/*
+Nevobo-feed plugin stylesheet
+Plugin by Harold Masselink - http://www.masselink.net
+
+Styling can be added here
+*/
+
+.nevobofeed td {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	padding-left: 10px;
+}
+
+/* cell padding */
+.nevobofeed th {
+	padding-left: 10px;
+}
+
+
+/* add cell effect here */
+.nevobofeed td:hover {
+
+}
+
+.nevobofeed img {
+	vertical-align: text-top;
+	max-height: 18px;
+}

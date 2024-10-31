@@ -1,0 +1,16 @@
+/*
+Nevobo-feed plugin admin stylesheet
+Plugin by Harold Masselink - http://www.masselink.net
+
+Styling can be added here
+*/
+
+.nevoboadmin input {
+	background-color: red;
+	color:green;
+}
+
+.nevoboadmin table {
+	padding-left: 100px;
+	border: dashed;
+}
